@@ -3,7 +3,7 @@ Klisé is a minimalist Wordpress theme for running a personal site or blog, ligh
 
 ## Support
 
-[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/coderb)
+[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/enderk)
 
 ## Features
 
@@ -30,5 +30,5 @@ If you see any typos or formatting errors in a post, or want to helping reduce b
 
 ## Support
 
-[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/coderb)
+[<img src="https://user-images.githubusercontent.com/1286821/181085373-12eee197-187a-4438-90fe-571ac6d68900.png" alt="Buy me a coffee" width="200" />](https://www.buymeacoffee.com/enderk)
 
